@@ -4,4 +4,9 @@
 # Examples:
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
-#   Mayor.create(name: 'Emanuel', city: cities.first)
+#   Mayor.create(name: 'Emanuel', city: cities.first
+
+
+p1 = Post.create(title: "Title Goes Here", description: "Desc goes here")
+p2 = Post.create(title: "I love Rails", description: "Desc goes here")
+p3 = Post.create(title: "My dog", description: "Desc goes here")
